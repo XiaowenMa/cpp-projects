@@ -2,7 +2,7 @@
 
 # Overview
 
-This folder contains the projects from course Object-Oriented Software Laboratory. It is composed of 5 projects, Lab1 - Lab3 are individual projects, Lab4 - Lab5 are group projects (group of 3). The projects are designed and constructed to learn C++ programming in developing a C++ game step by step and a simulation software of file system. All codes are written in C++.
+This folder contains the projects from course Object-Oriented Software Laboratory. It is composed of 5 projects, Lab1 - Lab3 are individual projects, Lab4 - Lab5 are group projects (Collaborators Github: lizhaoqi99 clairezb). The projects are designed and constructed to learn C++ programming in developing a C++ game step by step and a simulation software of file system. All codes are written in C++.
 
 # Lab1 - Basic C++ Program Structure and Data Movement
 
